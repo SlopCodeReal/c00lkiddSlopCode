@@ -2,7 +2,7 @@
 
 	M1 / Punch .......... Left click (touch: M1)   -> hit sound when it connects with another player
 	Q  Summon ........... places 2 Pizza Delivery minions that chase other players
-	E  Corrupt Nature ... throws a classic grey 1x2x1 stud brick
+	E  Corrupt Nature ... throws a classic grey 2x2x1 stud brick
 	R  Walkspeed Override (WSOStart -> WSOLoop dash -> WSOHit / WSOMiss)
 	G  Win pose (toggle)    X  Stunned emote
 	Plays "Introduction" once on load (move to skip it).
